@@ -38,3 +38,22 @@
     font-size:  32px;
     color: white;
 }
+
+.user-component__subtitle i{
+    position: absolute;
+    display: flex;
+    left: 255px;
+    top: 146px;
+    font-size: 10px;
+}
+
+.exclamation-badge {
+    background-color: tomato;
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
